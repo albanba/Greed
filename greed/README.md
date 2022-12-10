@@ -1,5 +1,5 @@
 # Greed
-It doesn't rain gems from the sky every day, mught as well grab as many as you can while it still raining, careful with the rocks they hit hard.
+It doesn't rain gems from the sky every day, grab as many as you can while it still raining, careful with the rocks they hit hard.
 
 ## Getting Started
 ---
